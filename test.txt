@@ -2,4 +2,6 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git! 192747349
 hello atguigu! hello git!
-hello atguigu! hello git!
+hello atguigu! hello git
+
+hot fix test!
